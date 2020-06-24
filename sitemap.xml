@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://PreDarkness.github.io/friends/index.html</loc>
+    
+    <lastmod>2020-06-24T02:13:39.933Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://PreDarkness.github.io/title/</loc>
+    
+    <lastmod>2020-06-24T01:20:41.552Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://PreDarkness.github.io/contact/index.html</loc>
     
     <lastmod>2020-06-23T12:46:02.024Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://PreDarkness.github.io/about/index.html</loc>
     
     <lastmod>2020-06-23T12:42:47.580Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://PreDarkness.github.io/friends/index.html</loc>
-    
-    <lastmod>2020-06-23T09:36:02.389Z</lastmod>
     
   </url>
   
@@ -40,13 +47,6 @@
     <loc>http://PreDarkness.github.io/archives/index.html</loc>
     
     <lastmod>2020-06-23T09:36:02.387Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://PreDarkness.github.io/title/</loc>
-    
-    <lastmod>2020-06-23T09:36:02.384Z</lastmod>
     
   </url>
   
