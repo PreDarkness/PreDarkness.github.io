@@ -8,7 +8,7 @@
       <link href="//title/"/>
       <url>//title/</url>
       
-        <content type="html"><![CDATA[<hr><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>GitHub 服务器毕竟是在国外，国内访问的速度比较慢。而 Coding 是国内的一个面向开发者的云端开发平台，这意味着能够大大提升国内的访问速度。</p><p>本文简单记录了 Hexo 博客部署到 Coding 的过程。</p><h1 id="创建coding仓库"><a href="#创建coding仓库" class="headerlink" title="创建coding仓库"></a>创建coding仓库</h1><ol><li><p>官网注册账号</p></li><li><p>注册完账号之后，请前个人账户的设置页面选择 SSH 公钥将本地生成的 公钥 添加进去。公钥储存位置一般在 C:\Users\用户名.ssh 目录下的 id_rsa.pub 文件里，用记事本打开复制其内容即可。<br>创建一个托管静态页面的仓库</p></li><li><p>项目名称任意，但是最好是自己在 Coding 上设置的账户名。因为当我们的项目推送成功并开启 Pages 服务后，其访问地址为 username.coding.me/projectname。而当你的 projectname 与 username 相同的时候，其访问地址可以简化为 username.coding.me。<br>项目描述随意填写<br>公开源代码：建议不勾选，这样仓库就只能自己查看<br>启用 README.md、添加 License 文件和添加 .gitignore 文件均可以不用理会，使用默认的就好</p></li></ol>]]></content>
+        <content type="html"><![CDATA[<hr><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>GitHub 服务器毕竟是在国外，国内访问的速度比较慢。而 Coding 是国内的一个面向开发者的云端开发平台，这意味着能够大大提升国内的访问速度。</p><p>本文简单记录了 Hexo 博客部署到 Coding 的过程。</p><h1 id="创建coding仓库"><a href="#创建coding仓库" class="headerlink" title="创建coding仓库"></a>创建coding仓库</h1><ol><li><p>官网注册账号</p></li><li><p>注册完账号之后，请前个人账户的设置页面选择 SSH 公钥将本地生成的 公钥 添加进去。公钥储存位置一般在 C:Users用户名.ssh 目录下的 id_rsa.pub 文件里，用记事本打开复制其内容即可。<br>创建一个托管静态页面的仓库</p></li><li><p>项目名称任意，但是最好是自己在 Coding 上设置的账户名。因为当我们的项目推送成功并开启 Pages 服务后，其访问地址为 username.coding.meprojectname。而当你的 projectname 与 username 相同的时候，其访问地址可以简化为 username.coding.me。<br>项目描述随意填写<br>公开源代码：建议不勾选，这样仓库就只能自己查看<br>启用 README.md、添加 License 文件和添加 .gitignore 文件均可以不用理会，使用默认的就好</p></li></ol>]]></content>
       
       
       <categories>
